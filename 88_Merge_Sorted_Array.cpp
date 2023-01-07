@@ -1,5 +1,6 @@
 // Time complexity is O(m+n)
 // Space Complexity is O(1)
+// Using Merge Sort Technique - creating end pointers to both arrays.
 
 class Solution {
 public:
