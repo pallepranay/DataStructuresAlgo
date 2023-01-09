@@ -1,3 +1,4 @@
+// Time Complexity is O(NlogN) + O(N)
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
